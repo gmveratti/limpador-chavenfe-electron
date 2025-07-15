@@ -42,10 +42,10 @@ Se você quiser rodar o projeto na sua máquina local, siga os passos abaixo:
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
+git clone [https://github.com/gmveratti/limpador-chavenfe-electron.git](https://github.com/gmveratti/limpador-chavenfe-electron.git)
 
 # 2. Navegue até a pasta do projeto
-cd NOME-DA-PASTA-DO-PROJETO
+cd limpador-chavenfe-electron
 
 # 3. Instale as dependências
 npm install
