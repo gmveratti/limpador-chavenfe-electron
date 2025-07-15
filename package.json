@@ -1,0 +1,15 @@
+{
+  "name": "limpa-chave",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Veratti",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "electron": "^37.2.1"
+  }
+}
