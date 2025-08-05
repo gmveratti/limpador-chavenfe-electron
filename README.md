@@ -6,13 +6,26 @@ Um utilitário simples, construído com Electron, para limpar e formatar chaves 
 
 ---
 
-## 🚀 Funcionalidades
+🚀 Funcionalidades
 
--   **Limpeza Automática:** Remove pontos, traços, espaços e qualquer outro caractere que não seja um número.
--   **Cópia Instantânea:** O resultado limpo é copiado para a área de transferência assim que a chave é inserida.
--   **Interface Simples:** Uma tela única e focada para agilizar o trabalho.
--   **Leve e Rápido:** Um aplicativo de desktop que não consome recursos desnecessários.
--   **Multiplataforma:** Funciona em Windows, macOS e Linux.
+* **Limpeza Automática:** Remova pontos, traços, espaços e qualquer outro caractere que não seja um número.
+* **Cópia Instantânea:** O resultado limpo é copiado para a área de transferência assim que a chave é inserida na janela do app.
+* **⚡ Atalho Global para Limpeza Rápida:** Para máxima agilidade, você nem precisa estar com o aplicativo em foco! Apenas copie uma chave de NFe e pressione o atalho **`Ctrl+Alt+X`** (ou **`Cmd+Alt+X`** no macOS). O programa irá tratar a chave em segundo plano e copiar o resultado limpo de volta para sua área de transferência, pronto para ser colado.
+* **Interface Simples:** Uma tela única e focada para agilizar o trabalho.
+* **Leve e Rápido:** Um aplicativo de desktop que não consome recursos desnecessários.
+* **Multiplataforma:** Funciona em Windows, macOS e Linux.
+
+---
+
+### ⚡ Atalho Mágico: Limpeza em Segundo Plano
+
+Para agilizar ainda mais o seu fluxo de trabalho, o Limpador de Chave de NFe oferece um atalho global.
+
+Isso significa que você **não precisa abrir ou focar na janela do programa** para usá-lo.
+
+1.  Copie qualquer chave de nota fiscal (com pontos, espaços, etc.).
+2.  Pressione **`Ctrl+Alt+X`** no Windows/Linux ou **`Cmd+Alt+X`** no macOS.
+3.  Pronto! A chave limpa já está na sua área de transferência, pronta para ser colada onde você precisar.
 
 ---
 
