@@ -1,10 +1,16 @@
 {
   "name": "limpa-chave",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "src/main.js",
   "scripts": {
     "start": "electron .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "electron-builder",
+    "build-linux": "electron-builder --linux",
+    "build-win": "electron-builder --win",
+    "build-mac": "electron-builder --mac",
+    "dist": "electron-builder --publish=never",
+    "pack": "electron-builder --dir"
   },
   "author": "Gabriel Veratti",
   "license": "MIT",
@@ -14,7 +20,7 @@
     "electron-builder": "^24.13.3"
   },
   "build": {
-    "appId": "com.seunome.limpadornfe",
+    "appId": "veratti.gabriel.utilitariochavenfe",
     "productName": "Limpador de Chave NFe",
     "files": [
       "src/",
