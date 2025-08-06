@@ -1,4 +1,4 @@
-// Arquivo CleanKey.js (ou como você o nomeou)
+
 const { clipboard } = require('electron');
 
 class CleanKey {
